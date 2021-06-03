@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List tests should render items 1`] = `ShallowWrapper {}`;
